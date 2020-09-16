@@ -33,6 +33,9 @@ PyQt5 Plugin
 
 ![PyQt.png](ScreenShot/PyQt.png)
 
+![PyQt_menu.png](ScreenShot/PyQt_menu.png)
+![PyQt_code.png](ScreenShot/PyQt_code.png)
+
 QSS Editor Plugin
 
 ![PyQt.png](ScreenShot/editor.png)
