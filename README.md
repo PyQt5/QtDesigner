@@ -21,6 +21,12 @@ Qt Designer With Plugins
 1. For Linux platform needs to run `designer.sh` file and it will take a while to display.
 2. If you want use `assistant`, You need to download the doc document from [https://github.com/PyQt5/PyQt/releases](https://github.com/PyQt5/PyQt/releases) and put it in the `Docs` folder, like `Windows/Docs/Qt-5.15.0` or `Linux/Docs/Qt-5.15.0`
 
+## Download
+
+https://github.com/PyQt5/QtDesigner/releases
+
+https://gitee.com/PyQt5/QtDesigner/releases
+
 ## ScreenShot
 
 PyQt5 Plugin
