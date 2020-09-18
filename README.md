@@ -39,3 +39,6 @@ PyQt5 Plugin
 QSS Editor Plugin
 
 ![PyQt.png](ScreenShot/editor.png)
+
+![editor_menu.png](ScreenShot/editor_menu.png)
+![editor_lint.png](ScreenShot/editor_lint.png)
