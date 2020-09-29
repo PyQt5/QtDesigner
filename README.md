@@ -12,7 +12,8 @@ Qt Designer With Plugins
 ## TODO
 
 - [x] PyQt5 plug-in, you can use PyQt5 to write custom controls
-- [x] Style editor with auto-complete
+- [x] Style editor with auto-complete, QSS format, QSS lint
+- [x] Ui Files Workspace
 - [ ] linguist.exe with multi language translation
 - [ ] assistant.exe with translation
 
@@ -35,6 +36,10 @@ PyQt5 Plugin
 
 ![PyQt_menu.png](ScreenShot/PyQt_menu.png)
 ![PyQt_code.png](ScreenShot/PyQt_code.png)
+
+Workspace Plugin
+
+![workspace.png](ScreenShot/workspace.png)
 
 QSS Editor Plugin
 
