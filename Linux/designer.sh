@@ -10,5 +10,5 @@ export PYTHONHOME=${basedir}
 export PYTHONPATH=${basedir}/local/lib/python3.6/:${basedir}/local/lib/python3.6/lib-dynload/:${basedir}/local/lib/python3.6/site-packages/:${basedir}/local/lib64/python3.6/site-packages/
 export LD_LIBRARY_PATH=${basedir}/local/lib64:${basedir}/lib
 
-chmod +x ${basedir}/bin/designer
+chmod -R +x ${basedir}/bin/*
 ${basedir}/bin/designer $@ &
